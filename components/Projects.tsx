@@ -7,25 +7,25 @@ const Projects: React.FC = () => {
       title: "Event Management System",
       description: "Event Management System is a web-based application that helps organize and manage events efficiently. It allows administrators to create events, manage registrations, track participants, and monitor event details through a structured dashboard.",
       tag: "Python + Django + HTML + Tailwind CSS",
-      image: "media/events.jpg"
+      image: "images/events.jpg"
     },
     {
       title: "Task Management System",
       description: "Django-based application to organize projects, track deadlines, and manage team tasks efficiently.",
       tag: "Python + Django + HTML + Tailwind CSS",
-      image: "media/task.jpeg"
+      image: "images/task.jpeg"
     },
     {
       title: "Library Management System",
       description: "Library Management System is a web-based application designed to manage library operations efficiently. It allows administrators to manage books, issue and return records, track members, and maintain an organized digital library system.",
       tag: "Python + Django + Django Rest Framework",
-      image: "media/library.jpg"
+      image: "images/library.jpg"
     },
     {
       title: "Blood Bank",
       description: "Blood Bank System is a web-based application that manages blood donors, blood inventory, and donation records efficiently, helping hospitals and organizations track and distribute blood safely.",
       tag: "Python + Django + Django Rest Framework",
-      image: "media/blood-bank.jpg"
+      image: "images/blood-bank.jpg"
     }
   ];
 

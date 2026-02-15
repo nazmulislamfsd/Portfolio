@@ -42,7 +42,7 @@ const Hero: React.FC = () => {
             <div className="absolute inset-0 bg-blue-600 blur-[80px] opacity-20 rounded-full"></div>
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full p-2 glass animate-float">
               <img 
-                src="media/n_image.jpg" 
+                src="images/n_image.jpg"
                 alt="Md. Nazmul Islam" 
                 className="w-full h-full rounded-full object-cover border-4 border-slate-900 shadow-2xl"
               />
